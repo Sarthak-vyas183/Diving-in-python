@@ -85,6 +85,17 @@ list = [1,4,9,16,25,36,49,64,81,100]
 
 # Rang function
 #rang function return sequence of number , starting from 0 by default and increment by 1
+# for i in range(49,100,143):
+    # print(i)
 
-range(5)
+#que: print the number from 1 to 100
+for i in range(1,101):
+    # print(i)
+    pass
+
+#que : print the number from 100 to 1
+for i in range(100,0):
+    # print(i)
+    pass
+
   
