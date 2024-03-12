@@ -32,7 +32,7 @@
 # print(str1[-58:-53])
 
 #String Functions
-#str.endswith(substring) return true is string end with substring 
+#str.endswith(substring) return true if string end with this substring 
 #str.capitalize()    it capitalize first charactor
 #str.replace(old,new)  replace all the occurrence of old with new 
 #str.find(word)   return first index of 1st occurrence 
